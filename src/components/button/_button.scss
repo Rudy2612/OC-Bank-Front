@@ -1,0 +1,23 @@
+.button {
+    padding: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 0.2rem;
+    border-style: solid;
+    border-radius: 5px;
+    cursor: pointer;
+    width: max-content;
+    min-width: 80px;
+
+    &.primary {
+        border-color: #6558f6;
+        background-color: #6558f6;
+        color: #fff;
+    }
+
+    &.secondary {
+        border-color: #6558f6;
+        background-color: #fff;
+        color: #6558f6;
+    }
+}
