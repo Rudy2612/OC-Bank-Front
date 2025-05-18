@@ -1,8 +1,45 @@
-# React + Vite
+# Application ARGENT BANK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nouvelle application bancaire de l’entreprise Argent Bank
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Prérequis
+
+Vous avez besoin de [Node](https://nodejs.org/fr) pour installer les dépendance et démarrer les applications.
+
+
+## Installation
+
+Cloner le projet
+
+```bash
+  git clone https://github.com/Rudy2612/OC-Bank-Front
+```
+
+Aller dans le répertoire du projet
+
+```bash
+  cd OC-Bank-Front
+```
+
+Installer les dépendances
+
+```bash
+  npm install
+```
+
+Démarrer le serveur
+
+```bash
+  npm run dev
+```
+
+
+## 2. Installation du backend
+
+Téléchargez le projet et suivez les indications : 
+
+  [https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API)
+
