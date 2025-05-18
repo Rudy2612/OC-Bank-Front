@@ -7,7 +7,7 @@ Nouvelle application bancaire de l’entreprise Argent Bank
 
 ## Prérequis
 
-Vous avez besoin de [Node](https://nodejs.org/fr) pour installer les dépendance et démarrer les applications.
+Vous avez besoin de [Node](https://nodejs.org/fr) pour installer les dépendance et démarrer l'application.
 
 
 ## Installation
@@ -30,7 +30,7 @@ Installer les dépendances
   npm install
 ```
 
-Démarrer le serveur
+Démarrer l'application
 
 ```bash
   npm run dev
@@ -39,7 +39,7 @@ Démarrer le serveur
 
 ## 2. Installation du backend
 
-Téléchargez le projet et suivez les indications : 
+Téléchargez le projet et suivez les indications dans le `READ.ME`: 
 
   [https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API)
 
